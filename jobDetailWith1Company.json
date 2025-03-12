@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Community Phone Company",
+    "location": "Boston",
+    "numberOfPeople": "70 people",
+    "typeOfServices": "Consumer",
+    "domain": "",
+    "jobs": [
+      {
+        "jobTitle": "Senior Sales Manager | B2B",
+        "salaryRange": "25K",
+        "experience": "Burlington, MA, US, fulltime, 3+",
+        "visaRequired": "Yes",
+        "jobType": "Part Time",
+        "remote": "Yes",
+        "description": "We are looking for a Senior Sales Manager to join our team. The ideal candidate will have experience in B2B sales and a proven track record of success. This is a full-time position with a competitive salary and benefits package. If you are a motivated self-starter who is passionate about sales, we want to hear from you!",
+        "shortDescription": "We are looking for a Senior Sales Manager to join our team.",
+        "href":"https://www.workatastartup.com/jobs/70703/"
+      },
+      {
+        "jobTitle": "Product Engineer",
+        "salaryRange": "100K",
+        "experience": "Burlington, MA, US, fulltime, 3+",
+        "visaRequired": "Yes",
+        "jobType": "Part Time",
+        "remote": "Yes",
+        "description": "We are looking for aProduct Manager to join our team.This is a full-time position with a competitive salary and benefits package",
+        "shortDescription": "We are looking for a Product Manager to join our team.",
+        "href":"https://www.workatastartup.com/jobs/72075/"
+      }
+    ]
+  },
+  {
+    "name": "Tesla Phone Company",
+    "location": "Boston",
+    "numberOfPeople": "70 people",
+    "typeOfServices": "Consumer",
+    "domain": "",
+    "jobs": [
+      {
+        "jobTitle": "Sales Manager | B2B",
+        "salaryRange": "25K",
+        "experience": "Burlington, MA, US, fulltime, 3+",
+        "visaRequired": "Yes",
+        "jobType": "Part Time",
+        "remote": "Yes",
+        "description": "We are looking for a  Sales Manager to join our team. The ideal candidate will have experience in B2B sales and a proven track record of success. This is a full-time position with a competitive salary and benefits package. If you are a motivated self-starter who is passionate about sales, we want to hear from you!",
+        "shortDescription": "We are looking for a Sales Manager to join our team.",
+        "href":"https://www.workatastartup.com/jobs/70702/"
+      },
+      {
+        "jobTitle": "Manager",
+        "salaryRange": "100K",
+        "experience": "Burlington, MA, US, fulltime, 3+",
+        "visaRequired": "Yes",
+        "jobType": "Part Time",
+        "remote": "Yes",
+        "description": "We are looking for Manager to join our team.This is a full-time position with a competitive salary and benefits package",
+        "shortDescription": "We are looking for a Manager to join our team.",
+        "href":"https://www.workatastartup.com/jobs/72036/"
+      }
+    ]
+  }
+]
