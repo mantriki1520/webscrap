@@ -1,0 +1,35 @@
+{
+  "name": "Playwright_Practice",
+  "version": "1.0.0",
+  "description": "Playright Practice Project",
+  "main": "index.js",
+  "export NODE_PATH": "C:\\Program Files\nodejs\node_modules",
+  "scripts": {
+    "test:chrome": "playwright test --config=playwright.config.ts --project=chromium",
+    "test:firefox": "playwright test --config=playwright.config.ts --project=firefox",
+    "test:webKit": "playwright test --config=playwright.config.ts --project=WebKit",
+    "test": "cross-env ENV=qa npx cucumber-js --config=src/test/config/cucumber.js || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cucumber-html-reporter": "^5.0.1",
+    "axios": "^1.7.9",
+    "cucumber-html-reporter": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.12.0",
+    "openai": "^4.84.0",
+    "playwright": "^1.49.1",
+    "prettier": "^3.2.5"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2",
+    "cross-env": "^7.0.3",
+    "multiple-cucumber-html-reporter": "^3.8.0",
+    "playwright-bdd": "^7.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
